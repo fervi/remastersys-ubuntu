@@ -1,0 +1,1 @@
+apt-get -y install memtest86+ coreutils dialog genisoimage findutils bash passwd sed squashfs-tools casper rsync mount eject libdebian-installer4 os-prober ubiquity-frontend-debconf user-setup discover laptop-detect syslinux util-linux xresprobe
